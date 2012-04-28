@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  todo: MyString
+  status: false
+
+two:
+  todo: MyString
+  status: false
